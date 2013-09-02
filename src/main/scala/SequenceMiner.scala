@@ -1,3 +1,5 @@
+package eu.lucaongaro.sequenceminer
+
 import scala.io.Source
 import scala.language.implicitConversions
 import scala.language.postfixOps
