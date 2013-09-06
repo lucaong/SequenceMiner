@@ -46,7 +46,7 @@ confidence and a lift. The support is the number of occurrences of the rule; the
 antecent, the consequent is found; the lift is how much more frequent the rule is compared to what we would expect if the antecend and the
 consequent were independent events. For example, the following rule:
 
-A, B -> C, D, E (s: 153 c: 0.784 l: 44.513)
+`A, B -> C, D, E (s: 153 c: 0.784 l: 44.513)`
 
 Is read as "when A is followed by B, then also C, D and E are likely to follow". Moreover, this rule occurs 153 times. In the 78.4% of the
 case in which A is followed by B, then they are also followed by C, D and E. This association is 44.513 times more frequent than what
